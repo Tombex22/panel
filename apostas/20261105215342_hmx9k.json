@@ -1,0 +1,30 @@
+{
+ "id": "20261105215342_hmx9k",
+ "criado": "2026-11-05T21:53:42.324Z",
+ "quem": "Eu",
+ "stake": 10,
+ "pernas": [
+  {
+   "data": "2026-11-06",
+   "liga": "Ligue 2",
+   "casa": "Dijon",
+   "fora": "Red Star",
+   "mercado": "Remates — visitante",
+   "selecao": "Over 12.5",
+   "odd": 1.8,
+   "p": 0.5889,
+   "t": "Remates Red Star Over 12.5"
+  },
+  {
+   "data": "2026-11-06",
+   "liga": "Serie A",
+   "casa": "Venezia",
+   "fora": "Udinese",
+   "mercado": "Remates — total",
+   "selecao": "Over 27.5",
+   "odd": 1.58,
+   "p": 0.6388,
+   "t": "Remates (total) Over 27.5"
+  }
+ ]
+}
