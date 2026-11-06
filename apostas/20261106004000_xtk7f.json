@@ -1,0 +1,30 @@
+{
+ "id": "20261106004000_xtk7f",
+ "criado": "2026-11-06T00:40:00.728Z",
+ "quem": "Eu",
+ "stake": 10,
+ "pernas": [
+  {
+   "data": "2026-11-06",
+   "liga": "Ligue 2",
+   "casa": "Dijon",
+   "fora": "Red Star",
+   "mercado": "Remates — visitante",
+   "selecao": "Over 12.5",
+   "odd": 1.8,
+   "p": 0.5889,
+   "t": "Remates Red Star Over 12.5"
+  },
+  {
+   "data": "2026-11-06",
+   "liga": "Premier League",
+   "casa": "Everton",
+   "fora": "Coventry City",
+   "mercado": "Remates à baliza — total",
+   "selecao": "Under 9.5",
+   "odd": 1.58,
+   "p": 0.7249,
+   "t": "Remates à baliza (total) Under 9.5"
+  }
+ ]
+}
