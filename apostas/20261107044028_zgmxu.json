@@ -1,0 +1,30 @@
+{
+ "id": "20261107044028_zgmxu",
+ "criado": "2026-11-07T04:40:28.389Z",
+ "quem": "Eu",
+ "stake": 8,
+ "pernas": [
+  {
+   "data": "2026-11-07",
+   "liga": "Liga Portugal 2",
+   "casa": "Felgueiras 1932",
+   "fora": "Leixoes",
+   "mercado": "Cantos — quem faz mais",
+   "selecao": "Casa",
+   "odd": 1.85,
+   "p": 0.5805,
+   "t": "Mais cantos: Felgueiras 1932"
+  },
+  {
+   "data": "2026-11-07",
+   "liga": "Super League (SUI)",
+   "casa": "Grasshoppers",
+   "fora": "Lausanne",
+   "mercado": "Golos — 2.ª parte",
+   "selecao": "Under 1.5",
+   "odd": 2,
+   "p": 0.5556,
+   "t": "Golos 2.ª parte Under 1.5"
+  }
+ ]
+}
