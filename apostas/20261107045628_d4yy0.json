@@ -1,0 +1,30 @@
+{
+ "id": "20261107045628_d4yy0",
+ "criado": "2026-11-07T04:56:28.973Z",
+ "quem": "Eu",
+ "stake": 8,
+ "pernas": [
+  {
+   "data": "2026-11-07",
+   "liga": "Ekstraklasa (POL)",
+   "casa": "Korona Kielce",
+   "fora": "Radomiak Radom",
+   "mercado": "Remates — visitante",
+   "selecao": "Over 11.5",
+   "odd": 1.72,
+   "p": 0.5683,
+   "t": "Remates Radomiak Radom Over 11.5"
+  },
+  {
+   "data": "2026-11-07",
+   "liga": "2. Bundesliga",
+   "casa": "Nurnberg",
+   "fora": "Darmstadt",
+   "mercado": "Remates à baliza — casa",
+   "selecao": "Over 6.5",
+   "odd": 2.15,
+   "p": 0.4671,
+   "t": "Remates à baliza Nurnberg Over 6.5"
+  }
+ ]
+}
