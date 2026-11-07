@@ -1,0 +1,30 @@
+{
+ "id": "20261107182621_5vjml",
+ "criado": "2026-11-07T18:26:21.260Z",
+ "quem": "Eu",
+ "stake": 8,
+ "pernas": [
+  {
+   "data": "2026-11-07",
+   "liga": "Serie A",
+   "casa": "Parma",
+   "fora": "Bologna",
+   "mercado": "Remates — total",
+   "selecao": "Over 24.5",
+   "odd": 1.7,
+   "p": 0.61,
+   "t": "Remates (total) Over 24.5"
+  },
+  {
+   "data": "2026-11-07",
+   "liga": "La Liga",
+   "casa": "Osasuna",
+   "fora": "Athletic Club",
+   "mercado": "Remates — total",
+   "selecao": "Over 27.5",
+   "odd": 2.6,
+   "p": 0.388,
+   "t": "Remates (total) Over 27.5"
+  }
+ ]
+}
