@@ -1,0 +1,30 @@
+{
+ "id": "20261108024704_9zq9f",
+ "criado": "2026-11-08T02:47:04.326Z",
+ "quem": "Eu",
+ "stake": 8,
+ "pernas": [
+  {
+   "data": "2026-11-08",
+   "liga": "2. Bundesliga",
+   "casa": "Magdeburg",
+   "fora": "St Pauli",
+   "mercado": "Remates à baliza — visitante",
+   "selecao": "Over 4.5",
+   "odd": 2,
+   "p": 0.5437,
+   "t": "Remates à baliza St Pauli Over 4.5"
+  },
+  {
+   "data": "2026-11-08",
+   "liga": "Allsvenskan (SWE)",
+   "casa": "Goteborg",
+   "fora": "Malmo FF",
+   "mercado": "Remates à baliza — visitante",
+   "selecao": "Over 4.5",
+   "odd": 2.05,
+   "p": 0.5504,
+   "t": "Remates à baliza Malmo FF Over 4.5"
+  }
+ ]
+}
