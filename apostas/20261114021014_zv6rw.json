@@ -1,0 +1,52 @@
+{
+ "id": "20261114021014_zv6rw",
+ "criado": "2026-11-14T02:10:14.498Z",
+ "quem": "Eu",
+ "stake": 5,
+ "pernas": [
+  {
+   "data": "2026-11-14",
+   "liga": "Segunda División",
+   "casa": "Valladolid",
+   "fora": "Castellon",
+   "mercado": "Cantos — quem faz mais",
+   "selecao": "Casa",
+   "odd": 2,
+   "p": 0.5134,
+   "t": "Mais cantos: Valladolid"
+  },
+  {
+   "data": "2026-11-14",
+   "liga": "Segunda División",
+   "casa": "Almeria",
+   "fora": "Andorra",
+   "mercado": "Golos — casa",
+   "selecao": "Over 1.5",
+   "odd": 1.54,
+   "p": 0.6142,
+   "t": "Golos Almeria Over 1.5"
+  },
+  {
+   "data": "2026-11-14",
+   "liga": "Segunda División",
+   "casa": "Mallorca",
+   "fora": "Cordoba",
+   "mercado": "Golos — total",
+   "selecao": "Under 3.5",
+   "odd": 1.57,
+   "p": 0.741,
+   "t": "Golos (total) Under 3.5"
+  },
+  {
+   "data": "2026-11-14",
+   "liga": "Segunda División",
+   "casa": "Oviedo",
+   "fora": "Girona",
+   "mercado": "Cantos — quem faz mais",
+   "selecao": "Casa",
+   "odd": 1.73,
+   "p": 0.5859,
+   "t": "Mais cantos: Oviedo"
+  }
+ ]
+}
